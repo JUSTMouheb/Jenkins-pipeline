@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/5a8c79edf7964e4286f1629dbc2d835b/artifacts
+end_time: 1740562657231
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 5a8c79edf7964e4286f1629dbc2d835b
+run_name: abundant-ape-993
+run_uuid: 5a8c79edf7964e4286f1629dbc2d835b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740562657226
+status: 3
+tags: []
+user_id: mouheb

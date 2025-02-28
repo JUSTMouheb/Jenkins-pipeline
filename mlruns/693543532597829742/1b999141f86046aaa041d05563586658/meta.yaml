@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/1b999141f86046aaa041d05563586658/artifacts
+end_time: 1740742106803
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 1b999141f86046aaa041d05563586658
+run_name: big-moose-514
+run_uuid: 1b999141f86046aaa041d05563586658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740742106797
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/4ec65393004d47c8b12b5ea1a7418e14/artifacts
+end_time: 1740741727105
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 4ec65393004d47c8b12b5ea1a7418e14
+run_name: nervous-newt-297
+run_uuid: 4ec65393004d47c8b12b5ea1a7418e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740741727100
+status: 3
+tags: []
+user_id: mouheb

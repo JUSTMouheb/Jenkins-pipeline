@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/af466bb5f0f34916be694b3ca16e3efb/artifacts
+end_time: 1740739070980
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: af466bb5f0f34916be694b3ca16e3efb
+run_name: respected-fly-608
+run_uuid: af466bb5f0f34916be694b3ca16e3efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739068975
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/1f55eea0c9624105a72c2747829f0f73/artifacts
+end_time: 1740688738934
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 1f55eea0c9624105a72c2747829f0f73
+run_name: handsome-crab-640
+run_uuid: 1f55eea0c9624105a72c2747829f0f73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740688738921
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/825dc7d1311d4758965fb749a2dbe574/artifacts
+end_time: 1740505117339
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 825dc7d1311d4758965fb749a2dbe574
+run_name: industrious-worm-760
+run_uuid: 825dc7d1311d4758965fb749a2dbe574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740505113393
+status: 3
+tags: []
+user_id: mouheb

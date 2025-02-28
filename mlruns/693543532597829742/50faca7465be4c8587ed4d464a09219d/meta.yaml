@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/50faca7465be4c8587ed4d464a09219d/artifacts
+end_time: 1740503687856
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 50faca7465be4c8587ed4d464a09219d
+run_name: overjoyed-rat-273
+run_uuid: 50faca7465be4c8587ed4d464a09219d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740503685391
+status: 3
+tags: []
+user_id: mouheb

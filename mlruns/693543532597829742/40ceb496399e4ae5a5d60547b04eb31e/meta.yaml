@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/40ceb496399e4ae5a5d60547b04eb31e/artifacts
+end_time: 1740504707745
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 40ceb496399e4ae5a5d60547b04eb31e
+run_name: upset-bass-683
+run_uuid: 40ceb496399e4ae5a5d60547b04eb31e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504707725
+status: 3
+tags: []
+user_id: mouheb

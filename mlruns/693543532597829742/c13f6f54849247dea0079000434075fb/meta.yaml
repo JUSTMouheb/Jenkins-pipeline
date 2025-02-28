@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/c13f6f54849247dea0079000434075fb/artifacts
+end_time: 1740684911485
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: c13f6f54849247dea0079000434075fb
+run_name: orderly-stoat-555
+run_uuid: c13f6f54849247dea0079000434075fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684911445
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/b13912e0f03d40b99a61cdfeddfb53bb/artifacts
+end_time: 1740739312580
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: b13912e0f03d40b99a61cdfeddfb53bb
+run_name: resilient-carp-615
+run_uuid: b13912e0f03d40b99a61cdfeddfb53bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739309904
+status: 3
+tags: []
+user_id: mouheb

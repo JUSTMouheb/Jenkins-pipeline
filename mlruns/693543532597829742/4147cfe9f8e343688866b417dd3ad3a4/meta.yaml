@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/4147cfe9f8e343688866b417dd3ad3a4/artifacts
+end_time: 1740680798216
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 4147cfe9f8e343688866b417dd3ad3a4
+run_name: treasured-horse-462
+run_uuid: 4147cfe9f8e343688866b417dd3ad3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740680796364
+status: 3
+tags: []
+user_id: mouheb

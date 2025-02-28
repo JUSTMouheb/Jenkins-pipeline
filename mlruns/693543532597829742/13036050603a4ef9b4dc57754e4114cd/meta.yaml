@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/13036050603a4ef9b4dc57754e4114cd/artifacts
+end_time: 1740741724799
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 13036050603a4ef9b4dc57754e4114cd
+run_name: skillful-perch-692
+run_uuid: 13036050603a4ef9b4dc57754e4114cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740741724793
+status: 3
+tags: []
+user_id: mouheb

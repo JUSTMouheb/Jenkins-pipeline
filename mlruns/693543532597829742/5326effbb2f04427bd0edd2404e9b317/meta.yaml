@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/5326effbb2f04427bd0edd2404e9b317/artifacts
+end_time: 1740519697783
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 5326effbb2f04427bd0edd2404e9b317
+run_name: indecisive-shrew-632
+run_uuid: 5326effbb2f04427bd0edd2404e9b317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740519697753
+status: 3
+tags: []
+user_id: mouheb

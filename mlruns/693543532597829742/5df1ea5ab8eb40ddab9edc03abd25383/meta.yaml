@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/5df1ea5ab8eb40ddab9edc03abd25383/artifacts
+end_time: 1740740868824
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 5df1ea5ab8eb40ddab9edc03abd25383
+run_name: treasured-finch-988
+run_uuid: 5df1ea5ab8eb40ddab9edc03abd25383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740868818
+status: 3
+tags: []
+user_id: mouheb

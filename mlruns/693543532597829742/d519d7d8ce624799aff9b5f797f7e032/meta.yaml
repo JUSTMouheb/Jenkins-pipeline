@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/d519d7d8ce624799aff9b5f797f7e032/artifacts
+end_time: 1740504003827
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: d519d7d8ce624799aff9b5f797f7e032
+run_name: brawny-fly-577
+run_uuid: d519d7d8ce624799aff9b5f797f7e032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504001458
+status: 3
+tags: []
+user_id: mouheb

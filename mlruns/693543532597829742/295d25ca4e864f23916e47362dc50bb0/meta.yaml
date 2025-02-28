@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/295d25ca4e864f23916e47362dc50bb0/artifacts
+end_time: 1740684851797
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 295d25ca4e864f23916e47362dc50bb0
+run_name: zealous-hound-628
+run_uuid: 295d25ca4e864f23916e47362dc50bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684851792
+status: 3
+tags: []
+user_id: mouheb

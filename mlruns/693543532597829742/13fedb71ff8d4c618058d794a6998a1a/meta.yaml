@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/13fedb71ff8d4c618058d794a6998a1a/artifacts
+end_time: 1740742106786
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 13fedb71ff8d4c618058d794a6998a1a
+run_name: upbeat-snipe-28
+run_uuid: 13fedb71ff8d4c618058d794a6998a1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740742106757
+status: 3
+tags: []
+user_id: mouheb

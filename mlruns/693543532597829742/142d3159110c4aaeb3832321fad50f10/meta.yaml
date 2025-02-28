@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/142d3159110c4aaeb3832321fad50f10/artifacts
+end_time: 1740504462463
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 142d3159110c4aaeb3832321fad50f10
+run_name: traveling-stork-134
+run_uuid: 142d3159110c4aaeb3832321fad50f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504462451
+status: 3
+tags: []
+user_id: mouheb

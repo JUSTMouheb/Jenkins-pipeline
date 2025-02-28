@@ -1,0 +1,46 @@
+artifact_path: xgboost_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.2
+model_size_bytes: 199630
+model_uuid: 2d20cdfc41d94db091bd889944c0067c
+run_id: b03b0ffeafc74b1ead48a7d6f92736db
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "State", "required": true}, {"type": "long",
+    "name": "Account length", "required": true}, {"type": "long", "name": "Area code",
+    "required": true}, {"type": "long", "name": "International plan", "required":
+    true}, {"type": "long", "name": "Voice mail plan", "required": true}, {"type":
+    "long", "name": "Number vmail messages", "required": true}, {"type": "double",
+    "name": "Total day minutes", "required": true}, {"type": "long", "name": "Total
+    day calls", "required": true}, {"type": "double", "name": "Total day charge",
+    "required": true}, {"type": "double", "name": "Total eve minutes", "required":
+    true}, {"type": "long", "name": "Total eve calls", "required": true}, {"type":
+    "double", "name": "Total eve charge", "required": true}, {"type": "double", "name":
+    "Total night minutes", "required": true}, {"type": "long", "name": "Total night
+    calls", "required": true}, {"type": "double", "name": "Total night charge", "required":
+    true}, {"type": "double", "name": "Total intl minutes", "required": true}, {"type":
+    "long", "name": "Total intl calls", "required": true}, {"type": "double", "name":
+    "Total intl charge", "required": true}, {"type": "long", "name": "Customer service
+    calls", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-02-25 17:01:16.976842'

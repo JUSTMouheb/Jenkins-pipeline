@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/9ffa0ea8c69d4325ae1c9421a46c1f4a/artifacts
+end_time: 1740740635850
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 9ffa0ea8c69d4325ae1c9421a46c1f4a
+run_name: monumental-panda-969
+run_uuid: 9ffa0ea8c69d4325ae1c9421a46c1f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740635824
+status: 3
+tags: []
+user_id: mouheb

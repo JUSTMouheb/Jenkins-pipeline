@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/5908eef0e6c54be59a607d627aa62367/artifacts
+end_time: 1740502750837
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 5908eef0e6c54be59a607d627aa62367
+run_name: awesome-moth-682
+run_uuid: 5908eef0e6c54be59a607d627aa62367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502750832
+status: 3
+tags: []
+user_id: mouheb

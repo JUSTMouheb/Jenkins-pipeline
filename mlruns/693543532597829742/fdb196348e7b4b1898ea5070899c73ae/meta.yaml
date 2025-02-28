@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/fdb196348e7b4b1898ea5070899c73ae/artifacts
+end_time: 1740688902479
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: fdb196348e7b4b1898ea5070899c73ae
+run_name: hilarious-stag-208
+run_uuid: fdb196348e7b4b1898ea5070899c73ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740688902461
+status: 3
+tags: []
+user_id: mouheb

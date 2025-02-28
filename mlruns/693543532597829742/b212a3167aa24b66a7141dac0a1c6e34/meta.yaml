@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/b212a3167aa24b66a7141dac0a1c6e34/artifacts
+end_time: 1740684851791
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: b212a3167aa24b66a7141dac0a1c6e34
+run_name: nebulous-shark-604
+run_uuid: b212a3167aa24b66a7141dac0a1c6e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684851785
+status: 3
+tags: []
+user_id: mouheb

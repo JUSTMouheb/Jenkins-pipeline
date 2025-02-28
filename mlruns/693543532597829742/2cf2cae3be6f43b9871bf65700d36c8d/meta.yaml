@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/2cf2cae3be6f43b9871bf65700d36c8d/artifacts
+end_time: 1740501853458
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 2cf2cae3be6f43b9871bf65700d36c8d
+run_name: grandiose-foal-137
+run_uuid: 2cf2cae3be6f43b9871bf65700d36c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740501850091
+status: 3
+tags: []
+user_id: mouheb

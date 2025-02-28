@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/f26caafb2d61494cb581bc5f8ce5a071/artifacts
+end_time: 1740740918363
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: f26caafb2d61494cb581bc5f8ce5a071
+run_name: industrious-wasp-701
+run_uuid: f26caafb2d61494cb581bc5f8ce5a071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740915713
+status: 3
+tags: []
+user_id: mouheb

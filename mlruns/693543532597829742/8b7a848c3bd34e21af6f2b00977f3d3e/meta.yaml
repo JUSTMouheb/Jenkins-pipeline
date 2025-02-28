@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/8b7a848c3bd34e21af6f2b00977f3d3e/artifacts
+end_time: 1740502630873
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 8b7a848c3bd34e21af6f2b00977f3d3e
+run_name: debonair-dolphin-114
+run_uuid: 8b7a848c3bd34e21af6f2b00977f3d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502627417
+status: 3
+tags: []
+user_id: mouheb

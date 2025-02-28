@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/ca40194f51504437b6cc7491f0c682a9/artifacts
+end_time: 1740518863239
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: ca40194f51504437b6cc7491f0c682a9
+run_name: capricious-panda-334
+run_uuid: ca40194f51504437b6cc7491f0c682a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518859730
+status: 3
+tags: []
+user_id: mouheb

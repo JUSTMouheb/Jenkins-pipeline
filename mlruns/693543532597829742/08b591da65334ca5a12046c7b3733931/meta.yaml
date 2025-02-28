@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/08b591da65334ca5a12046c7b3733931/artifacts
+end_time: 1740740866563
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 08b591da65334ca5a12046c7b3733931
+run_name: lyrical-wolf-245
+run_uuid: 08b591da65334ca5a12046c7b3733931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740864526
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/a3ad4b8a4d154ad78e3b2fe540b770b1/artifacts
+end_time: 1740740349886
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: a3ad4b8a4d154ad78e3b2fe540b770b1
+run_name: treasured-sheep-268
+run_uuid: a3ad4b8a4d154ad78e3b2fe540b770b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740349859
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/fd131895fd7644a8b2a886c5527f3571/artifacts
+end_time: 1740744053976
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: fd131895fd7644a8b2a886c5527f3571
+run_name: stylish-skink-940
+run_uuid: fd131895fd7644a8b2a886c5527f3571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740744048883
+status: 3
+tags: []
+user_id: mouheb

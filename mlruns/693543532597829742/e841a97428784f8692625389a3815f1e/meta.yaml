@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/e841a97428784f8692625389a3815f1e/artifacts
+end_time: 1740740780723
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: e841a97428784f8692625389a3815f1e
+run_name: hilarious-sheep-922
+run_uuid: e841a97428784f8692625389a3815f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740780718
+status: 3
+tags: []
+user_id: mouheb

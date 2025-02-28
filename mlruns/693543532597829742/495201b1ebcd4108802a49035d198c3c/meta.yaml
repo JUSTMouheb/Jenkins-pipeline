@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/495201b1ebcd4108802a49035d198c3c/artifacts
+end_time: 1740683258784
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 495201b1ebcd4108802a49035d198c3c
+run_name: nosy-fox-254
+run_uuid: 495201b1ebcd4108802a49035d198c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740683258778
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/1a3f58baf1374514a0bfd076bc05012e/artifacts
+end_time: 1740744370267
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 1a3f58baf1374514a0bfd076bc05012e
+run_name: capricious-trout-304
+run_uuid: 1a3f58baf1374514a0bfd076bc05012e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740744362660
+status: 3
+tags: []
+user_id: mouheb

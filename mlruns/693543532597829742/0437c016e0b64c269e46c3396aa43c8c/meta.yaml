@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/0437c016e0b64c269e46c3396aa43c8c/artifacts
+end_time: 1740744240169
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 0437c016e0b64c269e46c3396aa43c8c
+run_name: carefree-mink-652
+run_uuid: 0437c016e0b64c269e46c3396aa43c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740744239980
+status: 3
+tags: []
+user_id: mouheb

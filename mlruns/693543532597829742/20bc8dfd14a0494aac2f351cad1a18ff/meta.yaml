@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/20bc8dfd14a0494aac2f351cad1a18ff/artifacts
+end_time: 1740504418376
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 20bc8dfd14a0494aac2f351cad1a18ff
+run_name: grandiose-elk-597
+run_uuid: 20bc8dfd14a0494aac2f351cad1a18ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504415147
+status: 3
+tags: []
+user_id: mouheb

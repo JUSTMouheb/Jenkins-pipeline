@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/7c8de9a5f87c4f07b8ba2cf46e9fe0aa/artifacts
+end_time: 1740739316625
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 7c8de9a5f87c4f07b8ba2cf46e9fe0aa
+run_name: chill-goat-888
+run_uuid: 7c8de9a5f87c4f07b8ba2cf46e9fe0aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739316605
+status: 3
+tags: []
+user_id: mouheb

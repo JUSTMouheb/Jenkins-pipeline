@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/312e9ef306244f42858c71e59d350fea/artifacts
+end_time: 1740684854018
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 312e9ef306244f42858c71e59d350fea
+run_name: bright-deer-485
+run_uuid: 312e9ef306244f42858c71e59d350fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684854012
+status: 3
+tags: []
+user_id: mouheb

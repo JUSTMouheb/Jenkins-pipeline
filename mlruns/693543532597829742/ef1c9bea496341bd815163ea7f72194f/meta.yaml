@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/ef1c9bea496341bd815163ea7f72194f/artifacts
+end_time: 1740680800651
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: ef1c9bea496341bd815163ea7f72194f
+run_name: charming-crane-779
+run_uuid: ef1c9bea496341bd815163ea7f72194f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740680800645
+status: 3
+tags: []
+user_id: mouheb

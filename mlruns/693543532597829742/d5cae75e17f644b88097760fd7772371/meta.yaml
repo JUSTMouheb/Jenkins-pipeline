@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/d5cae75e17f644b88097760fd7772371/artifacts
+end_time: 1740522463176
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: d5cae75e17f644b88097760fd7772371
+run_name: stately-rat-470
+run_uuid: d5cae75e17f644b88097760fd7772371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522459448
+status: 3
+tags: []
+user_id: mouheb

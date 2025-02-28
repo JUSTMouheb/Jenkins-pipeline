@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/a2e338cd490240d0a3856a30d0aab90e/artifacts
+end_time: 1740683250254
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: a2e338cd490240d0a3856a30d0aab90e
+run_name: youthful-dove-500
+run_uuid: a2e338cd490240d0a3856a30d0aab90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740683250249
+status: 3
+tags: []
+user_id: mouheb

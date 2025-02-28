@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/adbb043f963a4231a72389f853b929c5/artifacts
+end_time: 1740501612139
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: adbb043f963a4231a72389f853b929c5
+run_name: abundant-shoat-815
+run_uuid: adbb043f963a4231a72389f853b929c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740501612135
+status: 3
+tags: []
+user_id: mouheb

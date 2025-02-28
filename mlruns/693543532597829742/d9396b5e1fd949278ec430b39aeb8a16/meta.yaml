@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/d9396b5e1fd949278ec430b39aeb8a16/artifacts
+end_time: 1740740868808
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: d9396b5e1fd949278ec430b39aeb8a16
+run_name: amazing-boar-206
+run_uuid: d9396b5e1fd949278ec430b39aeb8a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740868790
+status: 3
+tags: []
+user_id: mouheb

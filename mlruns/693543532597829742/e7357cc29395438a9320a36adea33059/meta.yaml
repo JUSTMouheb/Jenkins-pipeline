@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/e7357cc29395438a9320a36adea33059/artifacts
+end_time: 1740741720080
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: e7357cc29395438a9320a36adea33059
+run_name: kindly-boar-944
+run_uuid: e7357cc29395438a9320a36adea33059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740741720074
+status: 3
+tags: []
+user_id: mouheb

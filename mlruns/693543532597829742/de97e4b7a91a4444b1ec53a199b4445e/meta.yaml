@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/de97e4b7a91a4444b1ec53a199b4445e/artifacts
+end_time: 1740522459447
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: de97e4b7a91a4444b1ec53a199b4445e
+run_name: gifted-wasp-319
+run_uuid: de97e4b7a91a4444b1ec53a199b4445e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522459440
+status: 3
+tags: []
+user_id: mouheb

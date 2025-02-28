@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/6a1f54da706543199261dd7dd2c7e2b1/artifacts
+end_time: 1740739443684
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 6a1f54da706543199261dd7dd2c7e2b1
+run_name: big-sloth-111
+run_uuid: 6a1f54da706543199261dd7dd2c7e2b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739443678
+status: 3
+tags: []
+user_id: mouheb

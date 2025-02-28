@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/163160e2102946bf9249e6c209fd1dee/artifacts
+end_time: 1740741659765
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 163160e2102946bf9249e6c209fd1dee
+run_name: efficient-horse-235
+run_uuid: 163160e2102946bf9249e6c209fd1dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740741659759
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/2cd92210deeb4714bb29571d3fb5ae9b/artifacts
+end_time: 1740504723769
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 2cd92210deeb4714bb29571d3fb5ae9b
+run_name: sedate-ape-127
+run_uuid: 2cd92210deeb4714bb29571d3fb5ae9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504723765
+status: 3
+tags: []
+user_id: mouheb

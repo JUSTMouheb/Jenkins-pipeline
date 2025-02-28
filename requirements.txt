@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+mlflow
+fastapi
+uvicorn
+joblib
+pytest
+black
+flake8
+bandit==1.8.3

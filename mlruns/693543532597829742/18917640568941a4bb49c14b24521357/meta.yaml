@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/18917640568941a4bb49c14b24521357/artifacts
+end_time: 1740502005674
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 18917640568941a4bb49c14b24521357
+run_name: grandiose-bass-434
+run_uuid: 18917640568941a4bb49c14b24521357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502003284
+status: 3
+tags: []
+user_id: mouheb

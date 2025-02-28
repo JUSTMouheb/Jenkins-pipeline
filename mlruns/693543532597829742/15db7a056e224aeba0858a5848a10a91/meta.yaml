@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/15db7a056e224aeba0858a5848a10a91/artifacts
+end_time: 1740523084059
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 15db7a056e224aeba0858a5848a10a91
+run_name: useful-goose-412
+run_uuid: 15db7a056e224aeba0858a5848a10a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523084050
+status: 4
+tags: []
+user_id: mouheb

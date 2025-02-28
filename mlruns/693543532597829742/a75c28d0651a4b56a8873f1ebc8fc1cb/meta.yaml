@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/a75c28d0651a4b56a8873f1ebc8fc1cb/artifacts
+end_time: 1740680800658
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: a75c28d0651a4b56a8873f1ebc8fc1cb
+run_name: upset-cub-314
+run_uuid: a75c28d0651a4b56a8873f1ebc8fc1cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740680800652
+status: 3
+tags: []
+user_id: mouheb

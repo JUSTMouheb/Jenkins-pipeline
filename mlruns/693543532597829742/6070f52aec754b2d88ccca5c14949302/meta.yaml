@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/6070f52aec754b2d88ccca5c14949302/artifacts
+end_time: 1740518859728
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 6070f52aec754b2d88ccca5c14949302
+run_name: mysterious-chimp-193
+run_uuid: 6070f52aec754b2d88ccca5c14949302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518859725
+status: 3
+tags: []
+user_id: mouheb

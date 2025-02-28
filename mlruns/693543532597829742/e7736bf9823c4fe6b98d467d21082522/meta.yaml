@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/e7736bf9823c4fe6b98d467d21082522/artifacts
+end_time: 1740684854025
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: e7736bf9823c4fe6b98d467d21082522
+run_name: bouncy-horse-63
+run_uuid: e7736bf9823c4fe6b98d467d21082522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684854019
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/f557cc7c52f34ff0ae34625048851203/artifacts
+end_time: 1740502756736
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: f557cc7c52f34ff0ae34625048851203
+run_name: clumsy-owl-852
+run_uuid: f557cc7c52f34ff0ae34625048851203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502754301
+status: 3
+tags: []
+user_id: mouheb

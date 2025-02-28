@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/46dcf3582cad48db824dcff73980b5fe/artifacts
+end_time: 1740562659551
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 46dcf3582cad48db824dcff73980b5fe
+run_name: carefree-fawn-717
+run_uuid: 46dcf3582cad48db824dcff73980b5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740562659528
+status: 3
+tags: []
+user_id: mouheb

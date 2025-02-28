@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/9c63506db78a421a831151bc0d9f2768/artifacts
+end_time: 1740562651398
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 9c63506db78a421a831151bc0d9f2768
+run_name: treasured-flea-102
+run_uuid: 9c63506db78a421a831151bc0d9f2768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740562651393
+status: 3
+tags: []
+user_id: mouheb

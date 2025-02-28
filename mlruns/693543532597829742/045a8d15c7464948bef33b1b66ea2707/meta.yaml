@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/045a8d15c7464948bef33b1b66ea2707/artifacts
+end_time: 1740524061437
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 045a8d15c7464948bef33b1b66ea2707
+run_name: useful-colt-996
+run_uuid: 045a8d15c7464948bef33b1b66ea2707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524057092
+status: 3
+tags: []
+user_id: mouheb

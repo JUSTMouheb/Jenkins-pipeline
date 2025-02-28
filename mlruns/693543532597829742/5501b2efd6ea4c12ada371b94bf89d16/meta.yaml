@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/5501b2efd6ea4c12ada371b94bf89d16/artifacts
+end_time: 1740502169680
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 5501b2efd6ea4c12ada371b94bf89d16
+run_name: melodic-hen-678
+run_uuid: 5501b2efd6ea4c12ada371b94bf89d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502169675
+status: 3
+tags: []
+user_id: mouheb

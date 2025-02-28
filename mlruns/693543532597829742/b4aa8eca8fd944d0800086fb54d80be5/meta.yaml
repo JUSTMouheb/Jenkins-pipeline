@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/b4aa8eca8fd944d0800086fb54d80be5/artifacts
+end_time: 1740524061453
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: b4aa8eca8fd944d0800086fb54d80be5
+run_name: flawless-sheep-406
+run_uuid: b4aa8eca8fd944d0800086fb54d80be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524061441
+status: 3
+tags: []
+user_id: mouheb

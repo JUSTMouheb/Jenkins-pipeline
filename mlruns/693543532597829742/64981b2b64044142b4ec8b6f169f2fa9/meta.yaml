@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/64981b2b64044142b4ec8b6f169f2fa9/artifacts
+end_time: 1740502175334
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 64981b2b64044142b4ec8b6f169f2fa9
+run_name: handsome-bird-494
+run_uuid: 64981b2b64044142b4ec8b6f169f2fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502172931
+status: 3
+tags: []
+user_id: mouheb

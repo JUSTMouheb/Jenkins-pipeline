@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/ee5403ad90194153862dc284ca6248a9/artifacts
+end_time: 1740688894734
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: ee5403ad90194153862dc284ca6248a9
+run_name: charming-duck-943
+run_uuid: ee5403ad90194153862dc284ca6248a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740688889976
+status: 3
+tags: []
+user_id: mouheb

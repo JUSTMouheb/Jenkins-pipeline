@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/acee0c55386f4a9f8db2d57c289410b4/artifacts
+end_time: 1740740349903
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: acee0c55386f4a9f8db2d57c289410b4
+run_name: agreeable-mule-51
+run_uuid: acee0c55386f4a9f8db2d57c289410b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740349898
+status: 3
+tags: []
+user_id: mouheb

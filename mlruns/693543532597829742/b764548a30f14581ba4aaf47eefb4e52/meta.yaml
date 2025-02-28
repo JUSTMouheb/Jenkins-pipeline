@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/b764548a30f14581ba4aaf47eefb4e52/artifacts
+end_time: 1740505123066
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: b764548a30f14581ba4aaf47eefb4e52
+run_name: thoughtful-cub-258
+run_uuid: b764548a30f14581ba4aaf47eefb4e52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740505123044
+status: 3
+tags: []
+user_id: mouheb

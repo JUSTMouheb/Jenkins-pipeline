@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/f02ee7e7dd2e44c8b1e0a0474d8f077d/artifacts
+end_time: 1740523594303
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: f02ee7e7dd2e44c8b1e0a0474d8f077d
+run_name: intelligent-ray-699
+run_uuid: f02ee7e7dd2e44c8b1e0a0474d8f077d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523594285
+status: 3
+tags: []
+user_id: mouheb

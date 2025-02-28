@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/e608f1009bc844c3af0f0843415ab997/artifacts
+end_time: 1740688898425
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: e608f1009bc844c3af0f0843415ab997
+run_name: secretive-hare-920
+run_uuid: e608f1009bc844c3af0f0843415ab997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740688898410
+status: 3
+tags: []
+user_id: mouheb

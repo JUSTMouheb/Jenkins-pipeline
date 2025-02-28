@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/717fb4ca58894a9586ae2cc4e81062bd/artifacts
+end_time: 1740523594281
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 717fb4ca58894a9586ae2cc4e81062bd
+run_name: mysterious-squid-394
+run_uuid: 717fb4ca58894a9586ae2cc4e81062bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523594267
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/f2a312152cf04b67add71ab0a6f7cb4a/artifacts
+end_time: 1740740342933
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: f2a312152cf04b67add71ab0a6f7cb4a
+run_name: flawless-deer-197
+run_uuid: f2a312152cf04b67add71ab0a6f7cb4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740342927
+status: 3
+tags: []
+user_id: mouheb

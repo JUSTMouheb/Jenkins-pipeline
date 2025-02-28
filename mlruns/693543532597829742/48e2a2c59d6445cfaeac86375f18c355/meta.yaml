@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/48e2a2c59d6445cfaeac86375f18c355/artifacts
+end_time: 1740562659565
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 48e2a2c59d6445cfaeac86375f18c355
+run_name: exultant-foal-800
+run_uuid: 48e2a2c59d6445cfaeac86375f18c355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740562659560
+status: 3
+tags: []
+user_id: mouheb

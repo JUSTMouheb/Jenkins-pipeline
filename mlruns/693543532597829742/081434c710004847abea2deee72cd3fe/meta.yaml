@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/081434c710004847abea2deee72cd3fe/artifacts
+end_time: 1740504297758
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 081434c710004847abea2deee72cd3fe
+run_name: flawless-dog-35
+run_uuid: 081434c710004847abea2deee72cd3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504293838
+status: 3
+tags: []
+user_id: mouheb

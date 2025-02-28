@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/ca82f37aab6544109797bb017afaa303/artifacts
+end_time: 1740739068950
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: ca82f37aab6544109797bb017afaa303
+run_name: suave-ape-212
+run_uuid: ca82f37aab6544109797bb017afaa303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739065057
+status: 3
+tags: []
+user_id: mouheb

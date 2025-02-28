@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/cc81051cee284690a2d340c9a2aec12c/artifacts
+end_time: 1740740868816
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: cc81051cee284690a2d340c9a2aec12c
+run_name: suave-steed-820
+run_uuid: cc81051cee284690a2d340c9a2aec12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740868810
+status: 3
+tags: []
+user_id: mouheb

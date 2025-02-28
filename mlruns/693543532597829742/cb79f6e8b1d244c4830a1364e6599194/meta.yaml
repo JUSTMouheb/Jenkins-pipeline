@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/cb79f6e8b1d244c4830a1364e6599194/artifacts
+end_time: 1740740345553
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: cb79f6e8b1d244c4830a1364e6599194
+run_name: youthful-newt-654
+run_uuid: cb79f6e8b1d244c4830a1364e6599194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740342934
+status: 3
+tags: []
+user_id: mouheb

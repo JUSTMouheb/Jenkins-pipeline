@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/234f32a33981480390ad77da2184ad49/artifacts
+end_time: 1740680796355
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 234f32a33981480390ad77da2184ad49
+run_name: sassy-whale-406
+run_uuid: 234f32a33981480390ad77da2184ad49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740680792599
+status: 3
+tags: []
+user_id: mouheb

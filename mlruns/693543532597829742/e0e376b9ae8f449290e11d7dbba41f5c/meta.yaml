@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/e0e376b9ae8f449290e11d7dbba41f5c/artifacts
+end_time: 1740518865073
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: e0e376b9ae8f449290e11d7dbba41f5c
+run_name: learned-flea-692
+run_uuid: e0e376b9ae8f449290e11d7dbba41f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518863243
+status: 3
+tags: []
+user_id: mouheb

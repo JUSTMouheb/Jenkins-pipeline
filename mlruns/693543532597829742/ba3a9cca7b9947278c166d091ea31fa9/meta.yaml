@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/ba3a9cca7b9947278c166d091ea31fa9/artifacts
+end_time: 1740740776318
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: ba3a9cca7b9947278c166d091ea31fa9
+run_name: nosy-skink-449
+run_uuid: ba3a9cca7b9947278c166d091ea31fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740773554
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/4405363218db444aa203c894dae7753b/artifacts
+end_time: 1740742104542
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 4405363218db444aa203c894dae7753b
+run_name: clumsy-auk-428
+run_uuid: 4405363218db444aa203c894dae7753b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740742104536
+status: 3
+tags: []
+user_id: mouheb

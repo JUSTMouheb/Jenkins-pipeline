@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/e7d2ca9143704394a6b5ac4b42c665e4/artifacts
+end_time: 1740739443691
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: e7d2ca9143704394a6b5ac4b42c665e4
+run_name: popular-chimp-598
+run_uuid: e7d2ca9143704394a6b5ac4b42c665e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739443686
+status: 3
+tags: []
+user_id: mouheb

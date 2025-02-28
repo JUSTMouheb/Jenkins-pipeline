@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/64dee1a30c3d453c8f1c01ac60732b47/artifacts
+end_time: 1740740228371
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 64dee1a30c3d453c8f1c01ac60732b47
+run_name: dashing-shrimp-753
+run_uuid: 64dee1a30c3d453c8f1c01ac60732b47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740228362
+status: 3
+tags: []
+user_id: mouheb

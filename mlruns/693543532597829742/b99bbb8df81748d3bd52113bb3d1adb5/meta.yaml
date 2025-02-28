@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/b99bbb8df81748d3bd52113bb3d1adb5/artifacts
+end_time: 1740739314479
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: b99bbb8df81748d3bd52113bb3d1adb5
+run_name: crawling-ape-861
+run_uuid: b99bbb8df81748d3bd52113bb3d1adb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739314474
+status: 3
+tags: []
+user_id: mouheb

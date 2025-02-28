@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/78e41aeafcf14897898ee139f15424c4/artifacts
+end_time: 1740504415145
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 78e41aeafcf14897898ee139f15424c4
+run_name: nosy-doe-738
+run_uuid: 78e41aeafcf14897898ee139f15424c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504415141
+status: 3
+tags: []
+user_id: mouheb

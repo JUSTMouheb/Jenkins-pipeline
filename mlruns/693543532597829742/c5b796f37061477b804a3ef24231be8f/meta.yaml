@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/c5b796f37061477b804a3ef24231be8f/artifacts
+end_time: 1740684907349
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: c5b796f37061477b804a3ef24231be8f
+run_name: classy-jay-450
+run_uuid: c5b796f37061477b804a3ef24231be8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684904830
+status: 3
+tags: []
+user_id: mouheb

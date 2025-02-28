@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/3aa704a740244a59b8bedfe95a9b0472/artifacts
+end_time: 1740741036801
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 3aa704a740244a59b8bedfe95a9b0472
+run_name: caring-newt-391
+run_uuid: 3aa704a740244a59b8bedfe95a9b0472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740741036778
+status: 3
+tags: []
+user_id: mouheb

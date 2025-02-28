@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/61369e2f197541e9ba22952eb45a6bd4/artifacts
+end_time: 1740741034217
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 61369e2f197541e9ba22952eb45a6bd4
+run_name: wistful-lark-999
+run_uuid: 61369e2f197541e9ba22952eb45a6bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740741034208
+status: 3
+tags: []
+user_id: mouheb

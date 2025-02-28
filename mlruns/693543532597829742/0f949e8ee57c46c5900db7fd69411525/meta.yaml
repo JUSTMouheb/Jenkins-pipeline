@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/0f949e8ee57c46c5900db7fd69411525/artifacts
+end_time: 1740740072037
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 0f949e8ee57c46c5900db7fd69411525
+run_name: learned-panda-619
+run_uuid: 0f949e8ee57c46c5900db7fd69411525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740072011
+status: 3
+tags: []
+user_id: mouheb

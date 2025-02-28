@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/ed616aac6b39483b950c5bb234ba28e9/artifacts
+end_time: 1740740506184
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: ed616aac6b39483b950c5bb234ba28e9
+run_name: enchanting-ox-171
+run_uuid: ed616aac6b39483b950c5bb234ba28e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740504202
+status: 3
+tags: []
+user_id: mouheb

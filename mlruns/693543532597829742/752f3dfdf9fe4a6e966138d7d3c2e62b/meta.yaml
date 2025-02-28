@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/752f3dfdf9fe4a6e966138d7d3c2e62b/artifacts
+end_time: 1740740705752
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 752f3dfdf9fe4a6e966138d7d3c2e62b
+run_name: trusting-cow-26
+run_uuid: 752f3dfdf9fe4a6e966138d7d3c2e62b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740705729
+status: 3
+tags: []
+user_id: mouheb

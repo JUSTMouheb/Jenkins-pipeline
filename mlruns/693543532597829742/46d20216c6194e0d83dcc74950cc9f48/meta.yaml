@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/46d20216c6194e0d83dcc74950cc9f48/artifacts
+end_time: 1740740506195
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 46d20216c6194e0d83dcc74950cc9f48
+run_name: bald-cod-327
+run_uuid: 46d20216c6194e0d83dcc74950cc9f48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740506187
+status: 3
+tags: []
+user_id: mouheb

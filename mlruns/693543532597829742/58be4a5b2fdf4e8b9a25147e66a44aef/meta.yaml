@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/58be4a5b2fdf4e8b9a25147e66a44aef/artifacts
+end_time: 1740739314472
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 58be4a5b2fdf4e8b9a25147e66a44aef
+run_name: righteous-bat-878
+run_uuid: 58be4a5b2fdf4e8b9a25147e66a44aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739314466
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/fced347232d848179d9bcf12e785d55f/artifacts
+end_time: 1740740631829
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: fced347232d848179d9bcf12e785d55f
+run_name: skillful-cow-477
+run_uuid: fced347232d848179d9bcf12e785d55f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740629284
+status: 3
+tags: []
+user_id: mouheb

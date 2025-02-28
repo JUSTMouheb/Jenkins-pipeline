@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/b150379c574948b0b15e044df373eadc/artifacts
+end_time: 1740688898403
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: b150379c574948b0b15e044df373eadc
+run_name: skillful-snipe-501
+run_uuid: b150379c574948b0b15e044df373eadc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740688894751
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/8502f7bf32794c22b8fa7760f9a3490d/artifacts
+end_time: 1740504420788
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 8502f7bf32794c22b8fa7760f9a3490d
+run_name: whimsical-midge-773
+run_uuid: 8502f7bf32794c22b8fa7760f9a3490d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504418380
+status: 3
+tags: []
+user_id: mouheb

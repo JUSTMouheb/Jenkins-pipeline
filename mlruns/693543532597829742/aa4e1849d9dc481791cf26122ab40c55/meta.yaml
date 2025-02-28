@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/aa4e1849d9dc481791cf26122ab40c55/artifacts
+end_time: 1740523583865
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: aa4e1849d9dc481791cf26122ab40c55
+run_name: dapper-hen-789
+run_uuid: aa4e1849d9dc481791cf26122ab40c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523583852
+status: 3
+tags: []
+user_id: mouheb

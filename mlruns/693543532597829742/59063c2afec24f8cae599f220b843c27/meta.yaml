@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/59063c2afec24f8cae599f220b843c27/artifacts
+end_time: 1740501247984
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 59063c2afec24f8cae599f220b843c27
+run_name: bouncy-robin-414
+run_uuid: 59063c2afec24f8cae599f220b843c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740501242167
+status: 3
+tags: []
+user_id: mouheb

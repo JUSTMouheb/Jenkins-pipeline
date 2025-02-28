@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/7b831a4a5e15416f8519eea1dde45893/artifacts
+end_time: 1740684849810
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 7b831a4a5e15416f8519eea1dde45893
+run_name: powerful-moose-700
+run_uuid: 7b831a4a5e15416f8519eea1dde45893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684846317
+status: 3
+tags: []
+user_id: mouheb

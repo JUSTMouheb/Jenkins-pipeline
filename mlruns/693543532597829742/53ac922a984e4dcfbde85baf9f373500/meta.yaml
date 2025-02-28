@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/53ac922a984e4dcfbde85baf9f373500/artifacts
+end_time: 1740502090566
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 53ac922a984e4dcfbde85baf9f373500
+run_name: shivering-slug-503
+run_uuid: 53ac922a984e4dcfbde85baf9f373500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502088242
+status: 3
+tags: []
+user_id: mouheb

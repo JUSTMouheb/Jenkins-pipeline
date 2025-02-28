@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/dd5a81fdaed64070a9c83a49b66af8de/artifacts
+end_time: 1740739952985
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: dd5a81fdaed64070a9c83a49b66af8de
+run_name: receptive-asp-504
+run_uuid: dd5a81fdaed64070a9c83a49b66af8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740739951106
+status: 3
+tags: []
+user_id: mouheb

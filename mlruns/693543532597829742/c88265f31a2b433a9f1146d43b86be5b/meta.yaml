@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/c88265f31a2b433a9f1146d43b86be5b/artifacts
+end_time: 1740688734734
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: c88265f31a2b433a9f1146d43b86be5b
+run_name: nervous-roo-621
+run_uuid: c88265f31a2b433a9f1146d43b86be5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740688734721
+status: 3
+tags: []
+user_id: mouheb

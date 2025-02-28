@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/9c6f8b7d6d0e4e10bad6992f442f7baa/artifacts
+end_time: 1740740703385
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 9c6f8b7d6d0e4e10bad6992f442f7baa
+run_name: secretive-goat-637
+run_uuid: 9c6f8b7d6d0e4e10bad6992f442f7baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740703379
+status: 3
+tags: []
+user_id: mouheb

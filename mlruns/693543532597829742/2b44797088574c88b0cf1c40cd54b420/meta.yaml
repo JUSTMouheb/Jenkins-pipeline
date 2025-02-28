@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/2b44797088574c88b0cf1c40cd54b420/artifacts
+end_time: 1740740508550
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 2b44797088574c88b0cf1c40cd54b420
+run_name: zealous-moth-642
+run_uuid: 2b44797088574c88b0cf1c40cd54b420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740508545
+status: 3
+tags: []
+user_id: mouheb

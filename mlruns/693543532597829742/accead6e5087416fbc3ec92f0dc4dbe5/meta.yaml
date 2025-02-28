@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/accead6e5087416fbc3ec92f0dc4dbe5/artifacts
+end_time: 1740502820389
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: accead6e5087416fbc3ec92f0dc4dbe5
+run_name: able-fly-966
+run_uuid: accead6e5087416fbc3ec92f0dc4dbe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502818030
+status: 3
+tags: []
+user_id: mouheb

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/c1fbe818e89a4907bcf77f5a8042597d/artifacts
+end_time: 1740502212639
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: c1fbe818e89a4907bcf77f5a8042597d
+run_name: zealous-gnat-166
+run_uuid: c1fbe818e89a4907bcf77f5a8042597d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740502209425
+status: 3
+tags: []
+user_id: mouheb

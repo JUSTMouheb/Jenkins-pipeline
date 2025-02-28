@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/ce76789ec60f403e920ee524661b8d68/artifacts
+end_time: 1740740003182
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: ce76789ec60f403e920ee524661b8d68
+run_name: receptive-whale-322
+run_uuid: ce76789ec60f403e920ee524661b8d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740003174
+status: 3
+tags: []
+user_id: mouheb

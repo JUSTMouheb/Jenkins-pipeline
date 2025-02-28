@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/35a56c8fcf244604bfa49857b01836b9/artifacts
+end_time: 1740740133454
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 35a56c8fcf244604bfa49857b01836b9
+run_name: nosy-squirrel-317
+run_uuid: 35a56c8fcf244604bfa49857b01836b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740133449
+status: 3
+tags: []
+user_id: mouheb

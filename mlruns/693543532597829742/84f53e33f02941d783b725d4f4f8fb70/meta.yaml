@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/84f53e33f02941d783b725d4f4f8fb70/artifacts
+end_time: 1740741036820
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 84f53e33f02941d783b725d4f4f8fb70
+run_name: ambitious-shad-910
+run_uuid: 84f53e33f02941d783b725d4f4f8fb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740741036815
+status: 3
+tags: []
+user_id: mouheb

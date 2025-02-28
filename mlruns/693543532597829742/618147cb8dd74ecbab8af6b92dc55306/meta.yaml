@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/618147cb8dd74ecbab8af6b92dc55306/artifacts
+end_time: 1740740135654
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 618147cb8dd74ecbab8af6b92dc55306
+run_name: thundering-loon-994
+run_uuid: 618147cb8dd74ecbab8af6b92dc55306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740135648
+status: 3
+tags: []
+user_id: mouheb

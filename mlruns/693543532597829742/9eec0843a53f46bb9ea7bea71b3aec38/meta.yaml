@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/9eec0843a53f46bb9ea7bea71b3aec38/artifacts
+end_time: 1740523188405
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 9eec0843a53f46bb9ea7bea71b3aec38
+run_name: lyrical-flea-559
+run_uuid: 9eec0843a53f46bb9ea7bea71b3aec38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523178959
+status: 3
+tags: []
+user_id: mouheb

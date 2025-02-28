@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/cf1b236067dd4ac4bc32b4eb8db66ac9/artifacts
+end_time: 1740740131508
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: cf1b236067dd4ac4bc32b4eb8db66ac9
+run_name: peaceful-trout-715
+run_uuid: cf1b236067dd4ac4bc32b4eb8db66ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740128906
+status: 3
+tags: []
+user_id: mouheb

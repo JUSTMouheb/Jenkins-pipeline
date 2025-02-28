@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/dc99695880e749c49cb89210bf646657/artifacts
+end_time: 1740688734701
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: dc99695880e749c49cb89210bf646657
+run_name: receptive-bass-317
+run_uuid: dc99695880e749c49cb89210bf646657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740688731247
+status: 3
+tags: []
+user_id: mouheb

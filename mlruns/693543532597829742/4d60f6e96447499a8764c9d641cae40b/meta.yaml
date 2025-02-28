@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/4d60f6e96447499a8764c9d641cae40b/artifacts
+end_time: 1740503012932
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 4d60f6e96447499a8764c9d641cae40b
+run_name: bemused-dolphin-79
+run_uuid: 4d60f6e96447499a8764c9d641cae40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740503012927
+status: 3
+tags: []
+user_id: mouheb

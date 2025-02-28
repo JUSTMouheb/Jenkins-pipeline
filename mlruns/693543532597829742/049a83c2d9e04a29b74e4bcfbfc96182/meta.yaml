@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/049a83c2d9e04a29b74e4bcfbfc96182/artifacts
+end_time: 1740684911493
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 049a83c2d9e04a29b74e4bcfbfc96182
+run_name: honorable-turtle-708
+run_uuid: 049a83c2d9e04a29b74e4bcfbfc96182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740684911487
+status: 3
+tags: []
+user_id: mouheb

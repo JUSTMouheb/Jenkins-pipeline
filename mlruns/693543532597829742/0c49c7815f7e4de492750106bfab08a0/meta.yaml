@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/0c49c7815f7e4de492750106bfab08a0/artifacts
+end_time: 1740522465181
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: 0c49c7815f7e4de492750106bfab08a0
+run_name: tasteful-loon-227
+run_uuid: 0c49c7815f7e4de492750106bfab08a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522463193
+status: 3
+tags: []
+user_id: mouheb

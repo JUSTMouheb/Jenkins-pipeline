@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/d14a868f6456410589be88200822744f/artifacts
+end_time: 1740740072049
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: d14a868f6456410589be88200822744f
+run_name: lyrical-foal-144
+run_uuid: d14a868f6456410589be88200822744f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740740072041
+status: 3
+tags: []
+user_id: mouheb

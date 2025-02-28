@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mouheb/mouheb-hidouri-4DS1-ml_project/mlruns/693543532597829742/a0dd24234ccf4bc48e723002d1aaeeed/artifacts
+end_time: 1740744057833
+entry_point_name: ''
+experiment_id: '693543532597829742'
+lifecycle_stage: active
+run_id: a0dd24234ccf4bc48e723002d1aaeeed
+run_name: bright-mole-211
+run_uuid: a0dd24234ccf4bc48e723002d1aaeeed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740744057799
+status: 3
+tags: []
+user_id: mouheb
