@@ -12,11 +12,19 @@ pipeline {
             }
         }
 
+        stage('Check Workspace') {
+            steps {
+                // List all files in the workspace to confirm the presence of model_pipeline.py
+                sh 'ls -la'
+            }
+        }
+
         stage('Build') {
             steps {
                 echo 'Building the project...'
-                // Run the model pipeline script that includes MLflow logging
-                sh 'python model_pipeline.py'  // Ensure model_pipeline.py contains MLflow logging
+                // Ensure model_pipeline.py contains MLflow logging
+                // Adjust the path if the file is in a subfolder, e.g., 'scripts/model_pipeline.py'
+                sh 'python model_pipeline.py'  // Make sure this path is correct
             }
         }
 
